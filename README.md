@@ -32,7 +32,7 @@ How to Run
 1. Clone the repository:
 
 Bash
-git clone https://github.com/yourusername/Credit-Risk-Engine.git
+git clone https://github.com/abdulahadishaq512/Credit-Risk-Engine.git
 cd Credit-Risk-Engine
 
 2. Install dependencies:
