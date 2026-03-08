@@ -5,10 +5,10 @@ A machine learning pipeline for credit risk assessment that predicts loan defaul
 
 ## Features
 
-SQL Integration — Normalized data management using SQLite with multi-table joins
-Feature Engineering — Custom domain-specific metric Loan_to_Income_Ratio to improve predictive power
-Predictive Modeling — Random Forest classifier achieving ~85% accuracy on held-out test data
-Interactive Dashboard — Real-time risk inference via a deployed Streamlit web app
+SQL Integration, Normalized data management using SQLite with multi-table joins
+Feature Engineering, Custom domain-specific metric Loan_to_Income_Ratio to improve predictive power
+Predictive Modeling, Random Forest classifier achieving ~85% accuracy on held-out test data
+Interactive Dashboard, Real-time risk inference via a deployed Streamlit web app
 
 
 ## Tech Stack
@@ -32,10 +32,10 @@ bashstreamlit run app.py
 
 ## How It Works
 
-Data Ingestion — Dataset downloaded via Kaggle API and stored in a normalized SQLite database across 3 tables (Users, Financials, Loan_Status)
-Feature Engineering — SQL JOIN query extracts relevant features; Loan_to_Income_Ratio computed as a custom risk metric
-Model Training — Random Forest trained on encoded features with 80/20 train-test split
-Deployment — Model serialized with joblib and served via Streamlit Cloud
+Data Ingestion, Dataset downloaded via Kaggle API and stored in a normalized SQLite database across 3 tables (Users, Financials, Loan_Status)
+Feature Engineering, SQL JOIN query extracts relevant features; Loan_to_Income_Ratio computed as a custom risk metric
+Model Training, Random Forest trained on encoded features with 80/20 train-test split
+Deployment, Model serialized with joblib and served via Streamlit Cloud
 
 
 ## Model Performance
