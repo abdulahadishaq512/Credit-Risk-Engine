@@ -43,11 +43,5 @@ MetricScoreAccuracy~85%Precision~84%Recall~85%
 
 ## Author
 Abdul Ahad Ishaq
-**[GitHub](https://github.com/abdulahadishaq512/)** · [LinkedIn](https://linkedin.com/in/abdulahadishaq/)
+**[GitHub](https://github.com/abdulahadishaq512/)** · [LinkedIn](https://linkedin.com/in/abdul-ahad-6aba39260/)
 
-Just replace:
-
-your-streamlit-url with your actual Streamlit app URL
-The model performance numbers with your actual results from the classification report
-The LinkedIn URL with your actual profile
- Sonnet 4.6
