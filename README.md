@@ -16,9 +16,13 @@ CategoryToolsLanguagePython 3.12ML & Datascikit-learn, pandas, numpyVisualizatio
 
 ## Project Structure
 Bank-Loan-Risk-Engine/
+
 ├── app.py                  # Streamlit web application
+
 ├── credit_risk_model.pkl   # Trained Random Forest model
+
 ├── requirements.txt        # Project dependencies
+
 └── README.md
 
 ## How to Run Locally
