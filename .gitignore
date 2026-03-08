@@ -205,3 +205,12 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+gitignore_content = """
+*.zip
+*.db
+data/
+/content/logs.txt
+__pycache__/
+"""
+with open(".gitignore", "w") as f:
+    f.write(gitignore_content)
